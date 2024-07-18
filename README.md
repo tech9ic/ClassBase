@@ -42,7 +42,7 @@ To configure the "Contact Us" page:
 
 1. In `settings.py`, update the following settings with your email credentials:
 
-```
+```text
 EMAIL_HOST_USER = 'youremail@gmail.com'
 EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
